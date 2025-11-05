@@ -1,0 +1,7 @@
+{
+  "name": "AI AKBAR",
+  "description": "Aplikasi AI multifungsi yang ditenagai oleh Gemini. Mampu melakukan obrolan teks, menganalisis gambar, menghasilkan gambar baru, dan melakukan percakapan suara secara real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
